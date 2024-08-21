@@ -1,4 +1,3 @@
-//package com.calculadora.partidas.rankeadas;
 
 import java.util.Scanner;
 

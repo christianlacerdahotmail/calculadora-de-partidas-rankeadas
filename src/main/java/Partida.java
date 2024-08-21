@@ -1,8 +1,8 @@
 
 //Classe que armazena informações sobre vitórias e derrotas.
 public class Partida {
-    private int vitorias;
-    private int derrotas;
+    private final int vitorias;
+    private final int derrotas;
 
     public Partida(int vitorias, int derrotas) {
         this.vitorias = vitorias;

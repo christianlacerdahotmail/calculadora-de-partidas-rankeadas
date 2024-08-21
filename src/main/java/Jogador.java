@@ -1,7 +1,7 @@
 //Classe que armazena o saldo e o nível.
 public class Jogador {
-    private int saldoVitorias;
-    private String nivel;
+    private final int saldoVitorias;
+    private final String nivel;
 
     public Jogador(int saldoVitorias, String nivel) {
         this.saldoVitorias = saldoVitorias;
